@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '3748'
     url: http://www.gutenberg.org/2009/agents/3748
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27431#The-Adventures-of-Daniel-Boone--the-Kentucky-rifleman
 gutenberg_issued: '2008-12-07'
 gutenberg_type: Text
 identifiers:
